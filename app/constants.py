@@ -121,7 +121,7 @@ CODEN_MATCH = {
     'acsaem': 'aaemcq',
     'acsanm': 'aanmf6',
     'aabmcb': 'aabmcb',
-    'aptsfn': 'aptsfn'
+    'acsptsci': 'aptsfn'
 }
 
 
